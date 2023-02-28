@@ -1,8 +1,4 @@
-﻿**Analyzing Key Metrics of Nepal:![](Aspose.Words.15698e54-83ce-4db0-98d9-2bd0c7a01ffa.001.png)**
 
-**A Data Analytics Approach**
-
-**- MAHIM DHUNGEL**
 
 **Table of Contents:**
 
