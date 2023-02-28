@@ -1,21 +1,5 @@
 
 
-**Table of Contents:**
-
-[**Introduction:](#_page2_x72.00_y72.00) **[3** ](#_page2_x72.00_y72.00)[Overview of the schema](#_page3_x72.00_y72.00) [4** ](#_page3_x72.00_y72.00)[Data cleaning and pipelining in Tableau:](#_page4_x72.00_y72.00) [5** ](#_page4_x72.00_y72.00)[Data management in MICROSOFT SQL SERVER](#_page5_x72.00_y72.00) [6**](#_page5_x72.00_y72.00)**
-
-[**Key Performance Indicators:](#_page6_x72.00_y72.00) **[7**](#_page6_x72.00_y72.00)**
-
-1) [How has the consumption fared in Nepal over the years?](#_page6_x72.00_y106.42) [7](#_page6_x72.00_y106.42)
-1) [What is the consumption growth rate of Nepal?](#_page7_x72.00_y72.00) [8](#_page7_x72.00_y72.00)
-1) [What kind of growth do we see in the GDP of Nepal? Is it steady or being a developing nation, is it exponential?](#_page7_x72.00_y437.21) [8](#_page7_x72.00_y437.21)
-1) [What is the GDP growth rate of Nepal? Has it been increasing or decreasing?](#_page8_x72.00_y72.00) [9](#_page8_x72.00_y72.00)
-1) [Phillips curve in Nepal](#_page8_x72.00_y508.36) [9](#_page8_x72.00_y508.36)
-
-[**Summary statistics between GDP and Consumption in R:](#_page10_x72.00_y72.00) **[11** ](#_page10_x72.00_y72.00)[Running a simple OLS linear regression in R and interpreting its coefficient estimates.](#_page11_x72.00_y87.87)** [12 ](#_page11_x72.00_y87.87)[Interpreting goodness-of-fit metrics for OLS linear regression.](#_page11_x72.00_y476.91) [12 ](#_page11_x72.00_y476.91)[Relating R2 with correlation coefficient.](#_page12_x72.00_y159.84) [13](#_page12_x72.00_y159.84)
-
-[**Monte-Carlo Simulation:](#_page13_x72.00_y72.00) **[14**](#_page13_x72.00_y72.00)**
-
 **Introduction:**
 
 Nepal, a South Asian country nestled between the majestic Himalayan Mountains and the lush plains of the Terai, is a land of cultural diversity and natural beauty. As a developing country, Nepal has been the subject of numerous studies and research projects that aim to understand the social, economic, and environmental challenges facing the country. In this study, I collected data from four different online sources to examine key socio-economic indicators in Nepal.
