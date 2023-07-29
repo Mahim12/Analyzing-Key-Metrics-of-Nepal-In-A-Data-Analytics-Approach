@@ -1,6 +1,6 @@
 Check the: Analyzing Key Metrics of Nepal_ A Data Analytics Approach.pdf file
 
-**Introduction:**
+# **Introduction:**
 
 Nepal, a South Asian country nestled between the majestic Himalayan Mountains and the lush plains of the Terai, is a land of cultural diversity and natural beauty. As a developing country, Nepal has been the subject of numerous studies and research projects that aim to understand the social, economic, and environmental challenges facing the country. In this study, I collected data from four different online sources to examine key socio-economic indicators in Nepal.
 
@@ -13,7 +13,7 @@ All the sources of data come from the World Bank's Open Data and the worlddata i
 
 By gathering data from these four sources, the analysis aims to provide an overview of key socio-economic indicators in Nepal. Specifically, I will examine trends in the aforementioned indicators over time. The analysis will help shed light on the past and the current state of development in Nepal.![](Aspose.Words.15698e54-83ce-4db0-98d9-2bd0c7a01ffa.002.jpeg)
 
-**Overview of the schema**
+# **Overview of the schema**
 
 The logical schema is an essential component of any database that defines the structure and organisation of data within the system. In this schema, there are four dimension tables, named Consumption, Inflation, GDP, and Unemployment, which provide context and meaning to the data. Each dimension table contains attributes related to its respective subject area.
 
@@ -23,7 +23,7 @@ By combining the metrics from the fact table with the attributes from the dimens
 
 ![](Aspose.Words.15698e54-83ce-4db0-98d9-2bd0c7a01ffa.003.jpeg)
 
-**Data cleaning and pipelining in Tableau:**
+# **Data cleaning and pipelining in Tableau:**
 
 Data cleaning and pipelining are critical processes in Tableau that help to ensure accurate and reliable data analysis. Data cleaning involves the identification and removal of errors, inconsistencies, and outliers in the data, while pipelining refers to the process of transforming, filtering, and aggregating data to prepare it for analysis.
 
